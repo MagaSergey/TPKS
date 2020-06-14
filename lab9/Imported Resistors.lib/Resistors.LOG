@@ -1,0 +1,39 @@
+PCAD Importer Log
+Project : Resistors.LibPkg
+
+Section : D:\University\Theory Of Computer Systems Design\v2\lab3\Resistors.lib
+    Section : PCB Library - Resistors.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token RES On Line 138
+            Warning - 1 : Skipping Token RESVAR On Line 163
+            Warning - 1 : Skipping Token attachedSymbol On Line 215
+            Warning - 1 : Skipping Token attachedSymbol On Line 238
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - Resistors.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token viaStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 82
+            Warning - 1 : Skipping Token layerContents On Line 86
+            Warning - 1 : Skipping Token layerContents On Line 89
+            Warning - 1 : Skipping Token multiLayer On Line 103
+            Warning - 1 : Skipping Token layerContents On Line 107
+            Warning - 1 : Skipping Token multiLayer On Line 123
+            Warning - 1 : Skipping Token layerContents On Line 128
+            Warning - 1 : Skipping Token defaultPinDes On Line 146
+            Warning - 1 : Skipping Token defaultPinDes On Line 154
+            Warning - 1 : Skipping Token defaultPinDes On Line 171
+            Warning - 1 : Skipping Token defaultPinDes On Line 179
+            Warning - 1 : Skipping Token defaultPinDes On Line 187
+        EndSection
+
+        Section : Generating SCH Library - Resistors.SchLib
+        EndSection
+    EndSection
+EndSection
